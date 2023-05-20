@@ -1,0 +1,2 @@
+
+	Our Femtga series cameras have a hexagonal actual visual range in the Narrow Field of View (NFoV) mode, rather than circular. However, due to current model design limitations, it is unable to display the hexagonal field of view on platforms like Omniverse. We will provide relevant display solutions, or code to generate related Masks, in our subsequent updates. Please stay tuned.
