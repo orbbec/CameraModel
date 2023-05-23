@@ -1,1 +1,7 @@
 Here is the usd file for Orbbec Lidar ms200
+
+
+release v1.1
+ -add Cube for test 
+ -change the parameter value to 12
+ -disable verticalFov& verticalResolution,so set the value to 0
